@@ -1,5 +1,5 @@
 # Instagram-Data-Analysis
-Answering different questions using SQL. 
+Answer different questions using SQL. 
 
 This project is a cloned mimic version of Instagram database. The goal of this project is to perform data analysis to answer question and scenarios such as : 
 - Finding the oldest users.
